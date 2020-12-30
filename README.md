@@ -1,9 +1,12 @@
-NewEnglandcoin
+NewEnglandcoin 
+(archived, NENG has hard forked to Nengcoin at block number 2354921)
 ================================
 
 
 What is NewEnglandcoin?
 ----------------
+Depreciated, please checkout Nengcoin (NENG) at:
+https://github.com/ShorelineCrypto/nengcoin
 
 NewEnglandcoin is a clone of Bitcoin using scrypt as a proof-of-work algorithm with enhanced features to protect against 51% attack 
 and decentralize on mining to allow diversified mining rigs across CPUs, GPUs, ASICs and Android phones.
